@@ -19,7 +19,7 @@ function Header() {
        <Link to="/">
         <img
           className="header__logo"
-          src="https://github.com/navneetnavs/ApniShop/blob/main/images/apnishop.jpeg"
+          src="https://image.similarpng.com/file/similarpng/very-thumbnail/2021/09/Online-shopping-logo-design-template-on-transparent-background-PNG.png"
         />
       </Link>
       <div className='header__search'>
