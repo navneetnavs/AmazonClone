@@ -38,7 +38,7 @@ function Login() {
             <Link to='/'>
                 <img
                     className="login__logo"
-                    src='apnishop.jpeg' 
+                    src=""
                 />
             </Link>
 
