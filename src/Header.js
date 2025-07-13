@@ -19,7 +19,7 @@ function Header() {
        <Link to="/">
         <img
           className="header__logo"
-          src="src/apnishop.jpeg"
+          src="apnishop.jpeg"
         />
       </Link>
       <div className='header__search'>
