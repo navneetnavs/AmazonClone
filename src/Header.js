@@ -19,7 +19,7 @@ function Header() {
        <Link to="/">
         <img
           className="header__logo"
-          src="https://image.similarpng.com/file/similarpng/very-thumbnail/2021/09/Online-shopping-logo-design-template-on-transparent-background-PNG.png"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9zuqi7ox071o5324Yff-O8q5oUkDOY_5Kcg&s"
         />
       </Link>
       <div className='header__search'>
