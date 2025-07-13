@@ -38,7 +38,7 @@ function Login() {
             <Link to='/'>
                 <img
                     className="login__logo"
-                    src='src/apnishop.png' 
+                    src='src/apnishop.jpeg' 
                 />
             </Link>
 
@@ -60,7 +60,7 @@ function Login() {
                     see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice.
                 </p>
 
-                <button onClick={register} className='login__registerButton'>Create your Amazon Account</button>
+                <button onClick={register} className='login__registerButton'>Create your Account</button>
             </div>
         </div>
     )
